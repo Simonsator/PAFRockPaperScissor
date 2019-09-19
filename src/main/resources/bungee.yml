@@ -1,0 +1,6 @@
+name: RPS-For-PAF
+version: ${project.version}
+author: Simonsator
+depends: [PartyAndFriends]
+main: de.simonsator.partyandfriends.extensions.rockpaperscissor.RPSPlugin
+description: An add-on for party and friends to play rock, paper, scissors with your friends
